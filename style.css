@@ -55,9 +55,7 @@ img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.Texto2{
-    
-    flex-grow: 1;
-  flex-direction: column;
-  padding: 30px
-}
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
