@@ -11,8 +11,7 @@ body {
     color: #FFCF00;
     padding: 1rem;
     text-align: center;
-    border: #000000;
-    border-radius: 1px;
+    border: 1px #000000;
 }
 
 nav ul {
