@@ -60,3 +60,8 @@ img {
     grid-template-columns: 50% 50%;
     margin: 0 29%;
   }
+
+  .lista{
+    color: #161616;
+    text-align: center;
+  }
